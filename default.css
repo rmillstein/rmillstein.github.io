@@ -81,7 +81,7 @@ H1
 {
 	font-family: Arial, Helvetica, sans-serif;
 	color: navy;
-	font-size:x-large;
+	font-size:xx-large;
     margin-top:-5px;
      margin-bottom:5px;
 }
@@ -91,7 +91,7 @@ H1.title
 	font-family: Arial, Helvetica, sans-serif;
 	background: #AEEEEE;
 	color: navy;
-	font-size:x-large;
+	font-size:xx-large;
 	background-image: url(images/panther.gif); 
 	background-position: right; 
 	background-repeat: no-repeat;
@@ -105,23 +105,23 @@ H1.title
 H2 
 {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size:large;
-    margin-top:-1px;
-     margin-bottom:-5px;
+	font-size:x-large;
+    margin-top:25px;
+     margin-bottom:0px;
 }
 
 H3 
 {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size:medium;
-    margin-top:-1px;
+	font-size:large;
+    margin-top:15px;
      margin-bottom:-5px;
 }
 
-A:link {text-decoration: none;color: blue; font-weight: bold;  }
-A:visited {text-decoration: none; color: blue; font-weight: bold; }   
-A:hover {text-decoration: none; color: red; font-weight: bold; }    
-A:active {text-decoration: none; color: red; font-weight: bold; } 
+A:link {text-decoration: none;color: blue; font-weight: normal;  }
+A:visited {text-decoration: none; color: blue; font-weight: normal; }   
+A:hover {text-decoration: none; color: red; font-weight: normal; }    
+A:active {text-decoration: none; color: red; font-weight: normal; } 
 
 UL.plain  { list-style-type: none }
 
